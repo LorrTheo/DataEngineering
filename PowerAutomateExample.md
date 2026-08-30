@@ -18,3 +18,4 @@
      + This allows for all files in the folder with the exact same schema to be processed and combined together
   - Provide access via links or as desired
      + set appropriate permissions and or row level access
+     + send verification email notifications

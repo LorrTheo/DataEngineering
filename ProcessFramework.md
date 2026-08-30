@@ -1,0 +1,39 @@
+# My Data Engineering Framework
+
+## Business Case / Understanding 
+* Stakeholders
+* Benefits to be Realized
+* Scope
+* Schedule
+* Budget / Financials
+* Resources
+* Risk
+* Quality
+* Success Metrics
+
+## Extraction
+* Trigger
+* Validation
+* Extraction
+* Cleaning / Normalizing
+* Staging
+* Confirmation
+* Logging
+
+## Transformation - - Loading
+* Selective Business Case
+* Selective extraction
+* Selective Transformation
+* Selective destination Export
+* Confirmation
+* Logging
+
+## Presentation - - Consumption 
+* Select Format
+* Loading-Transformation
+* Minimum Viable
+* PDCA cycle
+* Deliver
+* Project Debrief 
+
+## Continuous Improvement Cycle
